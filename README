@@ -1,0 +1,12 @@
+Simple Interactive Novel Engine
+
+All the game data is statically built during compile time via the data.h header file
+
+eventually if I have the time and movtivation I might add visual novel support but for now its terminal based only
+
+currently only 92 sloc
+
+requirements
+- A C99 compliant compiler
+- UNIX system (have not tested with pdcurses)
+- Ncurses and Menu helper library
